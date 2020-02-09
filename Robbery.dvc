@@ -1,0 +1,7 @@
+md5: fe4e1e2f42cafbf671e25e5883504b89
+outs:
+- md5: 32534f34f2a5a94cfb7104db3883241a.dir
+  path: Robbery
+  cache: true
+  metric: false
+  persist: false

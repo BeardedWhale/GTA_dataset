@@ -1,0 +1,7 @@
+md5: 75608f07847b38deb8f6e31ed3a43f46
+outs:
+- md5: 1f680ccac48787cdbe4a7383fc34dab1.dir
+  path: Assault
+  cache: true
+  metric: false
+  persist: false

@@ -1,0 +1,7 @@
+md5: 7e160a13428737a016b1dcd379cec9c4
+outs:
+- md5: 159e39e15d919b39dc8195143277f1ca.dir
+  path: Fight
+  cache: true
+  metric: false
+  persist: false

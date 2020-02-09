@@ -1,0 +1,7 @@
+md5: c9645a95400b008171f51f31b4a9c2b9
+outs:
+- md5: 582067274998e56d7a3fa351dba969c3.dir
+  path: Shooting
+  cache: true
+  metric: false
+  persist: false
