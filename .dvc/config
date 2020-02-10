@@ -1,0 +1,5 @@
+['remote "s3remote"']
+url = s3://gta-crime-dataset
+profile = lisch.batanina@icloud.com
+[core]
+remote = s3remote
