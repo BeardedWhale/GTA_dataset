@@ -1,25 +1,25 @@
 # GTA_dataset
 gta_crime_dataset
 
-*Number of scenes*: 174
+*Number of scenes*: 199
 
-*Counter of videos*: Total: 866
+*Counter of videos*: Total: 966
 
-Arrest: 129
+Arrest: 134
 
 Arson : 148
 
-Assault: 92
+Assault: 107
 
-Fight: 106
+Fight: 126
 
-Vandalism: 90
+Vandalism: 105
 
-Explosion: 128
+Explosion: 158
 
 Robbery: 48
 
-Shooting: 125
+Shooting: 140
 
 ## S3 bucket:
 s3://gta-crime-dataset
