@@ -1,9 +1,9 @@
 # GTA_dataset
 gta_crime_dataset
 
-*Number of scenes*: 199
+*Number of scenes*: 198
 
-*Counter of videos*: Total: 966
+*Counter of videos*: Total: 961
 
 Arrest: 134
 
